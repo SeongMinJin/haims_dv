@@ -25,6 +25,8 @@ Vue.js 와, firebase로 유튜브 보면서 따라만들었고
 나름 좋은 경험이었다.
 
 
+<img width="192" alt="image" src="https://user-images.githubusercontent.com/73181329/207280768-e0e66b6c-a4b5-4b49-a7e0-cafafc95ec54.png">
+
 
 
 ---
