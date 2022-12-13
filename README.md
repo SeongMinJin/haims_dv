@@ -28,6 +28,8 @@ Vue.js 와, firebase로 유튜브 보면서 따라만들었고
 
 모바일로 접속하는 경우만 생각해서, 데스크탑으로 접속하면 인터페이스가 구리긴 구리다...
 그리고 메뉴 사진도 직접 다 찍긴 했는데.. 지금 다시 보니까 엄청 촌스럽다...ㅋㅋ
+
+
 <img width="192" alt="image" src="https://user-images.githubusercontent.com/73181329/207280768-e0e66b6c-a4b5-4b49-a7e0-cafafc95ec54.png">
 
 
